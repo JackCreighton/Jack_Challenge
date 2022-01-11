@@ -6,4 +6,4 @@ To change the input numbers edit input.txt
 
 Script Usage:
 1. cd into /hackerrank_python/ directory
-2. python .\complex_numbers.py
+2. python ./complex_numbers.py
